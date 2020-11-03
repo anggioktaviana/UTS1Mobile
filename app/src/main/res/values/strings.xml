@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS1Mobile</string>
+    <string name="profil_fakultas_upn" />
+    <string name="name_description" />
+    <string name="short_description" />
+    <string name="name_faculty" />
+</resources>
